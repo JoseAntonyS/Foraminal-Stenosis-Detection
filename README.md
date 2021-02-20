@@ -43,9 +43,6 @@ For quick training and better results, this object detection module was trained 
 # Model Performance Evaluation 
  Displayed using Tensorboard on the python notebook.
 
-**For more details, check the google colab below**
-https://colab.research.google.com/drive/1iUS5LguZo9YBD8miGdC8Tw5RkjclGIum?usp=sharing
-
 
 
 
