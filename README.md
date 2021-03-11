@@ -1,5 +1,8 @@
 # Faster-RCNN-based-Object-Detection
 
+**Objective** 
+ This project was created to find the spinal disorder Stenosis.
+ ![Stenosis Condition](https://cdn.mos.cms.futurecdn.net/xSPLmPYqvxyNxU8PxJs7YJ-1024-80.jpg.webp)
 
 This repository walks through the Object detection process including the custom dataset preparation, training with model congifuration setup and inference of the trained model.
 
